@@ -1,9 +1,10 @@
 package main
 
+//add new line
 import (
-  "log"
+	"log"
 )
 
-func main(){
-  log.Println("hello world")
+func main() {
+	log.Println("hello world")
 }
