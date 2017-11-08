@@ -1,6 +1,5 @@
 package main
 
-//add new line
 import (
 	"log"
 )
