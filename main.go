@@ -4,10 +4,9 @@ import (
 	"log"
 )
 
-func init(){
+func init() {
 	log.Println("in main.init func ...")
-	}
-
+}
 
 func main() {
 	log.Println("hello world !")
